@@ -19,6 +19,6 @@ https://github-profile-trophy.vercel.app/?username=mohamedTaamallah&theme=dark&n
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohamedTaamallah &icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mohamed&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 
