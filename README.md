@@ -1,4 +1,4 @@
-# 💫 About Me
+# 👓 About Me
 ⚒️ I’m currently working on: A telecommuting management web application using Spring and Angular, focusing on features like team management, collaborator reservation approvals, and email confirmations via Microsoft Graph API.<br><br>
 🧑‍🤝‍🧑 I’m looking to collaborate on: Projects involving Spring, .NET, or Angular development, particularly ones that deal with WebSocket implementation, JWT authentication, or dynamic user interface updates.<br><br>
 🤝 I’m looking for help with: Optimizing data filtering and formatting methods in Angular, and implementing WebSocket error handling for smoother client-server communication.<br><br>
@@ -22,5 +22,5 @@
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
----📉
+📉
 [![Profile Views](https://visitcount.itsvg.in/api?id=Mohamed&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
