@@ -16,7 +16,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedTaamallah&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedTaamallah&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohamedTaamallah&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
