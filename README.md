@@ -26,7 +26,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohamedTaamallah&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Low Key
-![]([https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark](https://tenor.com/fr/view/obito-sweating-gif-26777632))
+![](https://tenor.com/fr/view/obito-sweating-gif-26777632)
 
 📉
 [![Profile Views](https://visitcount.itsvg.in/api?id=Mohamed&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
